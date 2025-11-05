@@ -47,4 +47,4 @@ nslookup exemplo.com 8.8.8.8
 ## Arquivos no repositório
 
 * `notes.md` (este arquivo)
-* `completed.png` (print da conclusão)
+* `Captura de tela 2025-11-05 173808.png` (print da conclusão)
